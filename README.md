@@ -1,6 +1,5 @@
 # NLP
 
-Natuarl Langauge Processing "NLP"
 Everything we express (either verbally or in written) carries huge amounts of information.
 
 But there is a problem:
